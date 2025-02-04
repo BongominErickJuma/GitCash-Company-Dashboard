@@ -46,9 +46,9 @@ const CodeNav = () => {
           </div>
         </div>
       </div>
-      <div className="flex flex-wrap">
+      <div className="flex flex-wrap space-x-4">
         {/* Left Column (Main Content) */}
-        <div className="w-full lg:w-9/12">
+        <div className="w-full lg:w-8/12">
           {/* Top Row with Buttons */}
           <div className="flex flex-col lg:flex-row items-center justify-between mt-3">
             <div className="flex items-center">
